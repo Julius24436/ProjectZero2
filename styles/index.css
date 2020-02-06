@@ -1,0 +1,30 @@
+.logo {
+	width: 200px;
+	height: 200px;
+}
+
+header {
+	margin: -100px 0px 0px 0px;
+	padding: 0pc;
+	list-style-type: none;
+}
+
+nav a {
+	width: 150px;
+	height: 18px;
+	background-color: white;
+	padding: 20px;
+	border-bottom: solid 4px #ccccff;
+	color: black;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 17px;
+	display: inline-block;
+	float: left;
+}
+
+a:hover {
+	color: black;
+	border-bottom: solid 4px #004d80;
+	background-color: #99b3ff;
+}
